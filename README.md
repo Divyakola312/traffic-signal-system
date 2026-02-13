@@ -41,7 +41,7 @@ npm start
 ## Usage
 
 1. **Login**: Enter any username and password to access the system
-2. **Upload Video**: Select a traffic video file for analysis
+2. **Upload Video**: Select traffic videos for analysis
 3. **Start Analysis**: Click "Start Analysis" to begin processing
 4. **View Results**: Monitor real-time density and signal switching
 5. **Review Statistics**: Check final analytics and graphs
